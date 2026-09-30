@@ -2,7 +2,12 @@
 
 <br><br>
 
-<img src="./assets/brand.png" width="180" alt="ARGCYBERSKILLHUB"/>
+<img src="./assets/brand.png"
+     width="180"
+     height="180"
+     alt="ARGCYBERSKILLHUB"
+     style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 20px #00ff41;">
+
 
 <br><br>
 
