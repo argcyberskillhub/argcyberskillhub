@@ -1,11 +1,18 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,25:4B0082,50:7B2CBF,75:00B4D8,100:00F5D4&height=250&section=header&text=ARGCYBERSKILLHUB&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=CYBERSECURITY%20%7C%20RESEARCH%20%7C%20CREATION&descSize=17&descColor=E0AAFF&descAlignY=62&animation=twinkling" width="100%" alt="ARGCYBERSKILLHUB"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1700&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=65&lines=%3E%3E+WELCOME+TO+THE+CYBER+LAB;%3E%3E+SECURITY+RESEARCH+INITIALIZED;%3E%3E+PYTHON+%7C+LINUX+%7C+TERMUX+%7C+OSINT;%3E%3E+BUILDING+TOOLS.+EXPLORING+SYSTEMS.;%3E%3E+AUTHORIZED+ACCESS+ONLY.;%3E%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%A8" alt="Cyberpunk Terminal"/>
+<br><br>
+
+🌐 08 // SOCIAL-MEDIA-CONTACTS
+<div align="center"> 
+<a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002F"/> </a> 
+<a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002F"/> </a> 
+<a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-00B4D8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12002F"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=12002F"/> </a> </div>
 
 <br><br>
 
 <img src="./assets/brand.png"
      alt="ARGCYBERSKILLHUB"
-     width="180"
-     height="180"
+     width="230"
+     height="230"
      style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 25px #00ff41;">
 
 
@@ -21,82 +28,6 @@ ARGCYBERSKILLHUB is a cybersecurity-focused creator space built around
 security research • programming • Linux • networking • OSINT • practical tools
 
 <br> <img src="https://img.shields.io/badge/🟣_RESEARCH-7B2CBF?style=flat-square"/> <img src="https://img.shields.io/badge/🔵_ENGINEERING-00B4D8?style=flat-square"/> <img src="https://img.shields.io/badge/🩷_CREATIVITY-FF006E?style=flat-square"/> <img src="https://img.shields.io/badge/🟢_SECURITY-00F5D4?style=flat-square"/> </div>
-<h2 align="center">
-
-<br><br>
-<h2 align="center">
-  🧬 <code>01 // OPERATOR PROFILE</code>
-</h2>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="700">
-
-<!-- MACOS WINDOW HEADER -->
-
-<div align="right">
-  <font color="#FF5F56">●</font>
-  &nbsp;
-  <font color="#FFBD2E">●</font>
-  &nbsp;
-  <font color="#27C93F">●</font>
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⚡_ARGCYBERSKILLHUB-7B2CBF?style=for-the-badge&labelColor=12002F"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HANDLE-cybergana--web-00F5D4?style=for-the-badge&labelColor=080018"/>
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/FIELD-CYBERSECURITY-7B2CBF?style=for-the-badge&labelColor=080018"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER_/_CREATOR-FF006E?style=for-the-badge&labelColor=080018"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ENVIRONMENT-KALI_/_LINUX_/_TERMUX-00B4D8?style=for-the-badge&labelColor=080018"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-PYTHON-FF8500?style=for-the-badge&labelColor=080018"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00F5D4?style=for-the-badge&labelColor=080018"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=800&color=00F5D4&center=true&vCenter=true&width=500&lines=%3E+IDENTITY+VERIFIED;%3E+SECURITY+MODULES+ACTIVE;%3E+OPERATOR+ONLINE+%E2%9C%A8" alt="Operator Status"/>
-
-</div>
-
-<br>
-
-<!-- TERMINAL FOOTER -->
-
-<div align="center">
-
-<code>╱╱ AUTHORIZED CYBER RESEARCH ENVIRONMENT ╲╲</code>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br><br>
 
@@ -127,13 +58,15 @@ LANGUAGES
 <div align="center">
 PLATFORMS
 <br><br>
-<img src="https://skillicons.dev/icons?i=linux,kali,,ubuntu&theme=dark" alt="Platforms"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,termux,ubuntu&theme=dark" alt="Platforms"/>
 
 <br><br>
 <div align="center">
 DEVELOPMENT
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development"/> </div>
+
+<br><br>
 📊 04 // SKILL SPECTRUM
 <div align="center"> <img src="https://img.shields.io/badge/CYBERSECURITY-100%25-7B2CBF?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/ETHICAL_HACKING-95%25-FF006E?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/PYTHON-90%25-00B4D8?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/LINUX%20%2F%20KALI-90%25-00F5D4?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/TERMUX-85%25-F72585?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/OSINT-80%25-7209B7?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/NETWORKING-80%25-4361EE?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/WEB_SECURITY-75%25-FF8500?style=for-the-badge&labelColor=12002F"/> </div>
 
@@ -169,13 +102,6 @@ $ ls
 🕸️ web-security/
 
 
-<br><br>
-
-🌐 08 // SOCIAL-MEDIA-CONTACTS
-<div align="center"> 
-<a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002F"/> </a> 
-<a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002F"/> </a> 
-<a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-00B4D8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12002F"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=12002F"/> </a> </div>
 
 <br>
 <br>
