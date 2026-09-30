@@ -8,13 +8,15 @@
 <a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-00B4D8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12002F"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=12002F"/> </a> </div>
 
 <br><br>
-
+<html>
+<body>
 <img src="./assets/brand.png"
      alt="ARGCYBERSKILLHUB"
      width="230"
      height="230"
      style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 25px #00ff41;">
-
+</body>
+</html>
 
 
 <br><br>
