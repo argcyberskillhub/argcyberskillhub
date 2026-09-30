@@ -1,154 +1,153 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:001005,55:003b18,80:00a83b,100:00ff41&height=260&section=header&text=ARGCYBERSKILLHUB&fontSize=50&fontColor=00ff41&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20RESEARCH%20%2F%2F%20DEVELOPMENT&descSize=15&descColor=8affb5&descAlignY=62&animation=fadeIn" width="100%" alt="ARGCYBERSKILLHUB"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=850&height=70&lines=%5B+SYSTEM+BOOT+%5D+ARG+CYBER+ENVIRONMENT;%5B+MODULE+LOAD+%5D+SECURITY+RESEARCH;%5B+MODULE+LOAD+%5D+PYTHON+%2F%2F+LINUX+%2F%2F+TERMUX;%5B+MODULE+LOAD+%5D+OSINT+%2F%2F+NETWORKING;%5B+ACCESS+%5D+AUTHORIZED;%5B+STATUS+%5D+ONLINE+%E2%96%88" alt="Terminal"/> <br> <img src="./assets/brand.png" width="180" alt="ARGCYBERSKILLHUB"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,25:4B0082,50:7B2CBF,75:00B4D8,100:00F5D4&height=250&section=header&text=ARGCYBERSKILLHUB&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=CYBERSECURITY%20%7C%20RESEARCH%20%7C%20CREATION&descSize=17&descColor=E0AAFF&descAlignY=62&animation=twinkling" width="100%" alt="ARGCYBERSKILLHUB"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1700&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=65&lines=%3E%3E+WELCOME+TO+THE+CYBER+LAB;%3E%3E+SECURITY+RESEARCH+INITIALIZED;%3E%3E+PYTHON+%7C+LINUX+%7C+TERMUX+%7C+OSINT;%3E%3E+BUILDING+TOOLS.+EXPLORING+SYSTEMS.;%3E%3E+AUTHORIZED+ACCESS+ONLY.;%3E%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%A8" alt="Cyberpunk Terminal"/>
 
 <br><br>
 
-<img src="./assets/hacker.gif" width="75%" alt="Cybersecurity"/>
+<img src="./assets/brand.png" width="180" alt="ARGCYBERSKILLHUB"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SECURITY_RESEARCH-00ff41?style=for-the-badge&labelColor=050505"/> <img src="https://img.shields.io/badge/ETHICAL_MODE-00ff41?style=for-the-badge&labelColor=050505"/> <img src="https://img.shields.io/badge/SYSTEM_ONLINE-00ff41?style=for-the-badge&labelColor=050505"/> <img src="https://komarev.com/ghpvc/?username=cybergana-web&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge&labelColor=050505"/> </div>
-01 / OPERATOR IDENTITY
-╭──────────────────────────────────────────────────────────────╮
-│                     OPERATOR PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   NAME        :: ARGCYBERSKILLHUB                            │
-│   HANDLE      :: cybergana-web                               │
-│   DOMAIN      :: Cybersecurity                               │
-│   ROLE        :: Security Researcher / Creator               │
-│   ENVIRONMENT :: Kali Linux / Linux / Termux                 │
-│   PRIMARY     :: Python                                      │
-│   STATUS      :: ONLINE                                      │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-
-I explore cybersecurity through research, experimentation, development, and responsible security practices.
-
-02 / CORE INTERESTS
+<img src="https://img.shields.io/badge/⚡_CYBERSECURITY-7B2CBF?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/🛡️_ETHICAL_RESEARCH-00B4D8?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/🚀_BUILD_MODE-FF006E?style=for-the-badge&labelColor=12002F"/> <img src="https://komarev.com/ghpvc/?username=cybergana-web&label=👁%20VISITORS&color=00F5D4&style=for-the-badge&labelColor=12002F"/> </div>
 <div align="center">
-RESEARCH	ENGINEERING	ENVIRONMENT
-Ethical Hacking	Python	Kali Linux
-OSINT	Bash	Linux
-Web Security	PHP / JavaScript	Termux
-Networking	Automation	Git / GitHub
+🌌 WELCOME TO THE CYBER GRID
+Where Curiosity Meets Code
+
+ARGCYBERSKILLHUB is a cybersecurity-focused creator space built around
+security research • programming • Linux • networking • OSINT • practical tools
+
+<br> <img src="https://img.shields.io/badge/🟣_RESEARCH-7B2CBF?style=flat-square"/> <img src="https://img.shields.io/badge/🔵_ENGINEERING-00B4D8?style=flat-square"/> <img src="https://img.shields.io/badge/🩷_CREATIVITY-FF006E?style=flat-square"/> <img src="https://img.shields.io/badge/🟢_SECURITY-00F5D4?style=flat-square"/> </div>
+🧬 01 // OPERATOR PROFILE
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│  IDENTITY        → ARGCYBERSKILLHUB                   │
+│  HANDLE          → cybergana-web                      │
+│  FIELD           → Cybersecurity                      │
+│  ROLE            → Security Researcher / Creator      │
+│  ENVIRONMENT     → Kali / Linux / Termux              │
+│  PRIMARY LANGUAGE→ Python                              │
+│  STATUS          → ● ONLINE                           │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+
+MISSION
+
+Explore. Understand. Build. Secure. Share.
+
+I focus on turning complex cybersecurity concepts into practical, understandable projects and experiments.
+
+🛰️ 02 // CYBER DOMAINS
+<div align="center">
+🟣 OFFENSIVE RESEARCH	🔵 ENGINEERING	🩷 INTELLIGENCE	🟢 INFRASTRUCTURE
+Ethical Hacking	Python	OSINT	Linux
+Web Security	Bash	Recon	Kali
+Security Testing	Automation	Research	Termux
+Labs	Tooling	Analysis	Networking
 </div>
-03 / SECURITY STACK
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,bash,php,js,html,css,linux,kali,git,github,vscode&theme=dark" alt="Security Stack"/>
+🎨 03 // TECHNOLOGY MATRIX
+<div align="center">
+LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,bash,php,js,html,css&theme=dark" alt="Languages"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PYTHON-00ff41?style=flat-square&logo=python&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/LINUX-00ff41?style=flat-square&logo=linux&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/KALI-00ff41?style=flat-square&logo=kalilinux&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/TERMUX-00ff41?style=flat-square&logo=termux&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/BASH-00ff41?style=flat-square&logo=gnubash&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/GIT-00ff41?style=flat-square&logo=git&logoColor=000000&labelColor=000000"/> </div>
-04 / SKILL MATRIX
-CYBERSECURITY
-████████████████████████████████████████  100%
+PLATFORMS
+<img src="https://skillicons.dev/icons?i=linux,kali,android,ubuntu&theme=dark" alt="Platforms"/>
 
-ETHICAL HACKING
-██████████████████████████████████████░░   95%
+<br><br>
 
-PYTHON
-████████████████████████████████████░░░░   90%
+DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development"/> </div>
+📊 04 // SKILL SPECTRUM
+<div align="center"> <img src="https://img.shields.io/badge/CYBERSECURITY-100%25-7B2CBF?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/ETHICAL_HACKING-95%25-FF006E?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/PYTHON-90%25-00B4D8?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/LINUX%20%2F%20KALI-90%25-00F5D4?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/TERMUX-85%25-F72585?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/OSINT-80%25-7209B7?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/NETWORKING-80%25-4361EE?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/WEB_SECURITY-75%25-FF8500?style=for-the-badge&labelColor=12002F"/> </div>
+🔬 05 // THE CYBER LAB
+                    ┌──────────────┐
+                    │   DISCOVER   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   RESEARCH   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    BUILD     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │     TEST     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    SECURE    │
+                    └──────────────┘
 
-LINUX / KALI
-████████████████████████████████████░░░░   90%
+CURRENT LAB ACTIVITY
 
-TERMUX
-██████████████████████████████████░░░░░░   85%
+🟣 Security research
 
-OSINT
-████████████████████████████████░░░░░░░░   80%
+🔵 Python automation
 
-NETWORKING
-████████████████████████████████░░░░░░░░   80%
+🩷 OSINT experiments
 
-WEB SECURITY
-██████████████████████████████░░░░░░░░░░   75%
+🟢 Linux & Termux projects
 
-05 / CYBER LAB
-┌──────────────────────────────────────────────────────────────┐
-│                       ACTIVE LAB                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [✓] Security Research                                       │
-│  [✓] Linux & Command Line                                   │
-│  [✓] Python Development                                     │
-│  [✓] Networking Experiments                                 │
-│  [✓] OSINT Research                                         │
-│  [✓] Termux Development                                     │
-│  [>] Web Security                                           │
-│  [>] Security Automation                                    │
-│  [>] New Security Utilities                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+🟠 Networking labs
 
-CURRENT OBJECTIVES
-RESEARCH  ──────►  DEVELOP  ──────►  TEST
-                                      │
-                                      ▼
-                                  SECURE
-                                      │
-                                      ▼
-                                   SHARE
+🔷 Web-security research
 
-06 / TERMINAL SESSION
-$ cd ~/cyberlab
+🟡 Security-tool development
+
+💻 06 // PROJECT TERMINAL
+$ cd ~/ARGCYBERSKILLHUB
 
 $ ls
 
-security-research/
-python-tools/
-linux-labs/
-termux-projects/
-osint-research/
-networking/
-web-security/
+🔐 security-tools/
+🐍 python-projects/
+🐧 linux-labs/
+📱 termux-projects/
+🔎 osint-research/
+🌐 networking/
+🕸️ web-security/
 
-$ ./system_status
+$ ./status
 
-[+] Core ................. ONLINE
-[+] Research ............. ACTIVE
-[+] Development .......... ACTIVE
-[+] Security Lab ......... READY
-[+] Knowledge Base ....... ONLINE
+[✓] RESEARCH ENGINE      ONLINE
+[✓] DEVELOPMENT CORE     ONLINE
+[✓] CYBER LAB            ACTIVE
+[✓] KNOWLEDGE BASE       ONLINE
+[✓] CREATIVE MODE        ENABLED
 
-07 / GITHUB TELEMETRY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cybergana-web&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&text_color=8affb5&icon_color=00ff41&ring_color=00ff41" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergana-web&layout=compact&hide_border=true&bg_color=050505&title_color=00ff41&text_color=8affb5" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=cybergana-web&background=050505&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8affb5&currStreakNum=00ff41&sideNums=8affb5&dates=8affb5&stroke=00ff41&hide_border=true"/>
+🧠 07 // GITHUB TELEMETRY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cybergana-web&show_icons=true&hide_border=true&bg_color=12002F&title_color=00F5D4&text_color=E0AAFF&icon_color=FF006E" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergana-web&layout=compact&hide_border=true&bg_color=12002F&title_color=00F5D4&text_color=E0AAFF" height="180"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=cybergana-web&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7"/> </div>
-08 / NETWORK
-<div align="center"> <a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=00ff41"/> </a> <a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=00ff41"/> </a> <a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-050505?style=for-the-badge&logo=telegram&logoColor=00ff41"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-050505?style=for-the-badge&logo=facebook&logoColor=00ff41"/> </a> </div>
-09 / SECURITY PRINCIPLES
-┌──────────────────────────────────────────────────────────────┐
-│                    SECURITY PROTOCOL                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   AUTHORIZATION     →  ALWAYS REQUIRED                       │
-│   PRIVACY           →  ALWAYS RESPECTED                      │
-│   RESEARCH          →  RESPONSIBLE                           │
-│   DISCLOSURE        →  RESPONSIBLE                           │
-│   KNOWLEDGE         →  DEFENSIVE                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<img src="https://streak-stats.demolab.com?user=cybergana-web&background=12002F&ring=FF006E&fire=FF8500&currStreakLabel=00F5D4&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=00B4D8&dates=E0AAFF&stroke=7B2CBF&hide_border=true"/>
 
+<br><br>
 
-All projects and demonstrations are intended for educational, research, and authorized security-testing purposes only.
+<img src="https://github-profile-trophy.vercel.app/?username=cybergana-web&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/> </div>
+🌐 08 // CONNECT TO THE GRID
+<div align="center"> <a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002F"/> </a> <a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002F"/> </a> <a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-00B4D8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12002F"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=12002F"/> </a> </div>
+🛡️ 09 // SECURITY CODE
+<div align="center">
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│                 ETHICS > EVERYTHING                 │
+│                                                     │
+│     AUTHORIZATION  •  PRIVACY  •  RESPONSIBILITY   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 
-10 / FINAL TRANSMISSION
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+%5D+ONLINE;%5B+RESEARCH+%5D+ACTIVE;%5B+SECURITY+%5D+ENABLED;%5B+ACCESS+%5D+AUTHORIZED;%5B+ARG+%5D+KEEP+BUILDING;%5B+EOF+%5D" alt="System Status"/> <br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
-             ARGCYBERSKILLHUB
+All projects, demonstrations, and security experiments are intended for education, research, and authorized testing only.
 
-       RESEARCH  •  BUILD  •  SECURE
+Never test systems, accounts, networks, or applications without explicit permission.
 
-             cybergana-web
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:008f3d,65:003b18,100:000000&height=140&section=footer" width="100%" alt="Footer"/> </div>
+<div align="center">
+⚡ FINAL TRANSMISSION
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=700&color=00F5D4&center=true&vCenter=true&width=800&lines=%5B+01+%5D+STAY+CURIOUS;%5B+02+%5D+KEEP+BUILDING;%5B+03+%5D+LEARN+SECURITY;%5B+04+%5D+PROTECT+SYSTEMS;%5B+05+%5D+SHARE+KNOWLEDGE;%5B+ARG+%5D+SIGNAL+TERMINATED+%E2%9C%A8" alt="Final Transmission"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:00B4D8,50:7B2CBF,75:FF006E,100:12002F&height=150&section=footer&text=ARGCYBERSKILLHUB&fontSize=28&fontColor=FFFFFF&fontAlignY=68" width="100%" alt="Footer"/> </div>
