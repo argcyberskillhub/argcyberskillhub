@@ -3,10 +3,11 @@
 <br><br>
 
 <img src="./assets/brand.png"
+     alt="ARGCYBERSKILLHUB"
      width="180"
      height="180"
-     alt="ARGCYBERSKILLHUB"
-     style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 20px #00ff41;">
+     style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 25px #00ff41;">
+
 
 
 <br><br>
@@ -23,38 +24,73 @@ security research • programming • Linux • networking • OSINT • practic
 <h2 align="center">
 
 <br><br>
-🧬 <code>01 // OPERATOR PROFILE</code>
+<h2 align="center">
+  🧬 <code>01 // OPERATOR PROFILE</code>
 </h2>
+
+<br>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td width="700">
 
-<h3>⚡ ARGCYBERSKILLHUB</h3>
+<!-- MACOS WINDOW HEADER -->
 
-<img src="https://img.shields.io/badge/HANDLE-cybergana--web-00F5D4?style=for-the-badge&labelColor=12002F"/>
+<div align="right">
+  <font color="#FF5F56">●</font>
+  &nbsp;
+  <font color="#FFBD2E">●</font>
+  &nbsp;
+  <font color="#27C93F">●</font>
+</div>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/FIELD-CYBERSECURITY-7B2CBF?style=for-the-badge&labelColor=12002F"/>
+<div align="center">
 
-<br><br>
-
-<img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER_/_CREATOR-FF006E?style=for-the-badge&labelColor=12002F"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ENVIRONMENT-KALI_/_LINUX_/_TERMUX-00B4D8?style=for-the-badge&labelColor=12002F"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-PYTHON-FF8500?style=for-the-badge&labelColor=12002F"/>
+<img src="https://img.shields.io/badge/⚡_ARGCYBERSKILLHUB-7B2CBF?style=for-the-badge&labelColor=12002F"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00F5D4?style=for-the-badge&labelColor=12002F"/>
+<img src="https://img.shields.io/badge/HANDLE-cybergana--web-00F5D4?style=for-the-badge&labelColor=080018"/>
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/FIELD-CYBERSECURITY-7B2CBF?style=for-the-badge&labelColor=080018"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER_/_CREATOR-FF006E?style=for-the-badge&labelColor=080018"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ENVIRONMENT-KALI_/_LINUX_/_TERMUX-00B4D8?style=for-the-badge&labelColor=080018"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-PYTHON-FF8500?style=for-the-badge&labelColor=080018"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00F5D4?style=for-the-badge&labelColor=080018"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=800&color=00F5D4&center=true&vCenter=true&width=500&lines=%3E+IDENTITY+VERIFIED;%3E+SECURITY+MODULES+ACTIVE;%3E+OPERATOR+ONLINE+%E2%9C%A8" alt="Operator Status"/>
+
+</div>
+
+<br>
+
+<!-- TERMINAL FOOTER -->
+
+<div align="center">
+
+<code>╱╱ AUTHORIZED CYBER RESEARCH ENVIRONMENT ╲╲</code>
+
+</div>
 
 </td>
 </tr>
@@ -63,33 +99,35 @@ security research • programming • Linux • networking • OSINT • practic
 </div>
 
 <br><br>
+
+<div align="center">
 🚀MISSION
 
 Explore. Understand. Build. Secure. Share.
 
 I focus on turning complex cybersecurity concepts into practical, understandable projects and experiments.
+</div>
+<br><br>
 
-🛰️ 02 // CYBER DOMAINS
 <div align="center">
+🛰️ 02 // CYBER DOMAINS
+
 🟣 OFFENSIVE RESEARCH	🔵 ENGINEERING	🩷 INTELLIGENCE	🟢 INFRASTRUCTURE
-Ethical Hacking	Python	OSINT	Linux
-Web Security	Bash	Recon	Kali
-Security Testing	Automation	Research	Termux
-Labs	Tooling	Analysis	Networking
 </div>
 
 <br><br>
-🎨 03 // TECHNOLOGY MATRIX
 <div align="center">
+🎨 03 // TECHNOLOGY MATRIX
 <br><br>   
 LANGUAGES
+<br><br>
 <img src="https://skillicons.dev/icons?i=python,bash,php,js,html,css&theme=dark" alt="Languages"/>
 
 <br><br>
 <div align="center">
 PLATFORMS
 <br><br>
-<img src="https://skillicons.dev/icons?i=linux,kali,android,ubuntu&theme=dark" alt="Platforms"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,,ubuntu&theme=dark" alt="Platforms"/>
 
 <br><br>
 <div align="center">
@@ -100,120 +138,6 @@ DEVELOPMENT
 <div align="center"> <img src="https://img.shields.io/badge/CYBERSECURITY-100%25-7B2CBF?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/ETHICAL_HACKING-95%25-FF006E?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/PYTHON-90%25-00B4D8?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/LINUX%20%2F%20KALI-90%25-00F5D4?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/TERMUX-85%25-F72585?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/OSINT-80%25-7209B7?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/NETWORKING-80%25-4361EE?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/WEB_SECURITY-75%25-FF8500?style=for-the-badge&labelColor=12002F"/> </div>
 
 <br><br>
-
-
-<h2 align="center">
-  🔬 <code>05 // THE CYBER LAB</code>
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<div style="border:2px solid #00ff41;border-radius:12px;padding:15px 35px;background:#050505;color:#00ff41;box-shadow:0 0 15px #00ff41;">
-
-<b>◈ DISCOVER</b><br>
-<sub>Explore • Observe • Identify</sub>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<span style="color:#00ff41;font-size:25px;">│</span><br>
-<span style="color:#00ff41;">▼</span>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<div style="border:2px solid #00bfff;border-radius:12px;padding:15px 35px;background:#050505;color:#00bfff;box-shadow:0 0 15px #00bfff;">
-
-<b>◈ RESEARCH</b><br>
-<sub>Analyze • Learn • Investigate</sub>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<span style="color:#00bfff;font-size:25px;">│</span><br>
-<span style="color:#00bfff;">▼</span>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<div style="border:2px solid #bf00ff;border-radius:12px;padding:15px 35px;background:#050505;color:#bf00ff;box-shadow:0 0 15px #bf00ff;">
-
-<b>◈ BUILD</b><br>
-<sub>Code • Create • Automate</sub>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<span style="color:#bf00ff;font-size:25px;">│</span><br>
-<span style="color:#bf00ff;">▼</span>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<div style="border:2px solid #ff0080;border-radius:12px;padding:15px 35px;background:#050505;color:#ff0080;box-shadow:0 0 15px #ff0080;">
-
-<b>◈ TEST</b><br>
-<sub>Experiment • Validate • Improve</sub>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<span style="color:#ff0080;font-size:25px;">│</span><br>
-<span style="color:#ff0080;">▼</span>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<div style="border:2px solid #00ffd5;border-radius:12px;padding:15px 35px;background:#050505;color:#00ffd5;box-shadow:0 0 18px #00ffd5;">
-
-<b>◈ SECURE</b><br>
-<sub>Defend • Harden • Protect</sub>
-
-</div>
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
 
 CURRENT LAB ACTIVITY
 
@@ -272,5 +196,5 @@ All projects, demonstrations, and security experiments are intended for educatio
 Never test systems, accounts, networks, or applications without explicit permission.
 </div>
 <div align="center">
-⚡ THANKS FOR VISIT
+⚡ THANK YOU
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=700&color=00F5D4&center=true&vCenter=true&width=800&lines=%5B+01+%5D+STAY+CURIOUS;%5B+02+%5D+KEEP+BUILDING;%5B+03+%5D+LEARN+SECURITY;%5B+04+%5D+PROTECT+SYSTEMS;%5B+05+%5D+SHARE+KNOWLEDGE;%5B+ARG+%5D+SIGNAL+TERMINATED+%E2%9C%A8" alt="Final Transmission"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:00B4D8,50:7B2CBF,75:FF006E,100:12002F&height=150&section=footer&text=ARGCYBERSKILLHUB&fontSize=28&fontColor=FFFFFF&fontAlignY=68" width="100%" alt="Footer"/> </div>
