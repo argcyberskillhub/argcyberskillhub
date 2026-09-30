@@ -1,108 +1,154 @@
-<!-- Username agar alag hai to ARGCYBERSKILLHUB replace kar dena -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:001005,55:003b18,80:00a83b,100:00ff41&height=260&section=header&text=ARGCYBERSKILLHUB&fontSize=50&fontColor=00ff41&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20RESEARCH%20%2F%2F%20DEVELOPMENT&descSize=15&descColor=8affb5&descAlignY=62&animation=fadeIn" width="100%" alt="ARGCYBERSKILLHUB"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=850&height=70&lines=%5B+SYSTEM+BOOT+%5D+ARG+CYBER+ENVIRONMENT;%5B+MODULE+LOAD+%5D+SECURITY+RESEARCH;%5B+MODULE+LOAD+%5D+PYTHON+%2F%2F+LINUX+%2F%2F+TERMUX;%5B+MODULE+LOAD+%5D+OSINT+%2F%2F+NETWORKING;%5B+ACCESS+%5D+AUTHORIZED;%5B+STATUS+%5D+ONLINE+%E2%96%88" alt="Terminal"/> <br> <img src="./assets/brand.png" width="180" alt="ARGCYBERSKILLHUB"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=220&section=header&text=ARGCYBERSKILLHUB&fontSize=55&fontColor=00ff41&fontAlignY=38&desc=%5B%20ACCESS%20GRANTED%20%5D&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<br><br>
 
+<img src="./assets/hacker.gif" width="75%" alt="Cybersecurity"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SECURITY_RESEARCH-00ff41?style=for-the-badge&labelColor=050505"/> <img src="https://img.shields.io/badge/ETHICAL_MODE-00ff41?style=for-the-badge&labelColor=050505"/> <img src="https://img.shields.io/badge/SYSTEM_ONLINE-00ff41?style=for-the-badge&labelColor=050505"/> <img src="https://komarev.com/ghpvc/?username=cybergana-web&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge&labelColor=050505"/> </div>
+01 / OPERATOR IDENTITY
+╭──────────────────────────────────────────────────────────────╮
+│                     OPERATOR PROFILE                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   NAME        :: ARGCYBERSKILLHUB                            │
+│   HANDLE      :: cybergana-web                               │
+│   DOMAIN      :: Cybersecurity                               │
+│   ROLE        :: Security Researcher / Creator               │
+│   ENVIRONMENT :: Kali Linux / Linux / Termux                 │
+│   PRIMARY     :: Python                                      │
+│   STATUS      :: ONLINE                                      │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+
+I explore cybersecurity through research, experimentation, development, and responsible security practices.
+
+02 / CORE INTERESTS
 <div align="center">
-
-<img src="./assets/brand.png" width="140"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=root%40arg%3A~%23+whoami;Ethical+Hacker+%7C+Cyber+Security+Creator;Python+%7C+Kali+Linux+%7C+Termux+%7C+OSINT;Learn.+Hack.+Secure.;Hack+the+Planet+%F0%9F%92%80" alt="typing"/>
-</a>
-
-<br>
-
-<img src="./assets/hacker.gif" width="75%"/>
-
+RESEARCH	ENGINEERING	ENVIRONMENT
+Ethical Hacking	Python	Kali Linux
+OSINT	Bash	Linux
+Web Security	PHP / JavaScript	Termux
+Networking	Automation	Git / GitHub
 </div>
+03 / SECURITY STACK
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,bash,php,js,html,css,linux,kali,git,github,vscode&theme=dark" alt="Security Stack"/>
 
----
+<br><br>
 
-## `root@arg:~# cat about.txt`
+<img src="https://img.shields.io/badge/PYTHON-00ff41?style=flat-square&logo=python&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/LINUX-00ff41?style=flat-square&logo=linux&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/KALI-00ff41?style=flat-square&logo=kalilinux&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/TERMUX-00ff41?style=flat-square&logo=termux&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/BASH-00ff41?style=flat-square&logo=gnubash&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/GIT-00ff41?style=flat-square&logo=git&logoColor=000000&labelColor=000000"/> </div>
+04 / SKILL MATRIX
+CYBERSECURITY
+████████████████████████████████████████  100%
 
-```bash
-┌──[ARGCYBERSKILLHUB@kali]─[~]
-└──╼ $ cat about.txt
+ETHICAL HACKING
+██████████████████████████████████████░░   95%
 
- [+] Name      : ARG CYBER SKILL HUB
- [+] Role      : Ethical Hacker / Content Creator
- [+] Focus     : Python, Linux/Kali, Termux, OSINT,
-                 Networking, Web Security
- [+] Mission   : Cyber security ko sabke liye easy banana
- [+] Status    : [ ONLINE ]  █
-```
+PYTHON
+████████████████████████████████████░░░░   90%
 
----
+LINUX / KALI
+████████████████████████████████████░░░░   90%
 
-## `root@arg:~# ls skills/`
+TERMUX
+██████████████████████████████████░░░░░░   85%
 
-<div align="center">
+OSINT
+████████████████████████████████░░░░░░░░   80%
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
-![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+NETWORKING
+████████████████████████████████░░░░░░░░   80%
 
-</div>
+WEB SECURITY
+██████████████████████████████░░░░░░░░░░   75%
 
-```text
-[■■■■■■■■■■] Python ........ 90%
-[■■■■■■■■■□] Linux/Kali .... 85%
-[■■■■■■■■□□] OSINT ......... 80%
-[■■■■■■■□□□] Networking .... 75%
-[■■■■■■■□□□] Web Security .. 70%
-```
+05 / CYBER LAB
+┌──────────────────────────────────────────────────────────────┐
+│                       ACTIVE LAB                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [✓] Security Research                                       │
+│  [✓] Linux & Command Line                                   │
+│  [✓] Python Development                                     │
+│  [✓] Networking Experiments                                 │
+│  [✓] OSINT Research                                         │
+│  [✓] Termux Development                                     │
+│  [>] Web Security                                           │
+│  [>] Security Automation                                    │
+│  [>] New Security Utilities                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
----
+CURRENT OBJECTIVES
+RESEARCH  ──────►  DEVELOP  ──────►  TEST
+                                      │
+                                      ▼
+                                  SECURE
+                                      │
+                                      ▼
+                                   SHARE
 
-## `root@arg:~# ./stats.sh`
+06 / TERMINAL SESSION
+$ cd ~/cyberlab
 
-<div align="center">
+$ ls
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARGCYBERSKILLHUB&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&border_color=00ff41"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARGCYBERSKILLHUB&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41"/>
+security-research/
+python-tools/
+linux-labs/
+termux-projects/
+osint-research/
+networking/
+web-security/
 
-<br>
+$ ./system_status
 
-<img src="https://streak-stats.demolab.com?user=ARGCYBERSKILLHUB&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41&stroke=00ff41&hide_border=true"/>
+[+] Core ................. ONLINE
+[+] Research ............. ACTIVE
+[+] Development .......... ACTIVE
+[+] Security Lab ......... READY
+[+] Knowledge Base ....... ONLINE
 
-<br>
+07 / GITHUB TELEMETRY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cybergana-web&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&text_color=8affb5&icon_color=00ff41&ring_color=00ff41" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergana-web&layout=compact&hide_border=true&bg_color=050505&title_color=00ff41&text_color=8affb5" height="180"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ARGCYBERSKILLHUB&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<br><br>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=cybergana-web&background=050505&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8affb5&currStreakNum=00ff41&sideNums=8affb5&dates=8affb5&stroke=00ff41&hide_border=true"/>
 
----
+<br><br>
 
-## `root@arg:~# nmap -sV social-media`
+<img src="https://github-profile-trophy.vercel.app/?username=cybergana-web&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7"/> </div>
+08 / NETWORK
+<div align="center"> <a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=00ff41"/> </a> <a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=00ff41"/> </a> <a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-050505?style=for-the-badge&logo=telegram&logoColor=00ff41"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-050505?style=for-the-badge&logo=facebook&logoColor=00ff41"/> </a> </div>
+09 / SECURITY PRINCIPLES
+┌──────────────────────────────────────────────────────────────┐
+│                    SECURITY PROTOCOL                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   AUTHORIZATION     →  ALWAYS REQUIRED                       │
+│   PRIVACY           →  ALWAYS RESPECTED                      │
+│   RESEARCH          →  RESPONSIBLE                           │
+│   DISCLOSURE        →  RESPONSIBLE                           │
+│   KNOWLEDGE         →  DEFENSIVE                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-<div align="center">
 
-<a href="https://youtube.com/@argcyberskillhub"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00ff41"/></a>
-<a href="https://instagram.com/arg_cyberskillhub"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41"/></a>
-<a href="https://t.me/acyberskillhub01"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41"/></a>
-<a href="https://facebook.com/argcyberskillhub"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff41"/></a>
+All projects and demonstrations are intended for educational, research, and authorized security-testing purposes only.
 
-</div>
+10 / FINAL TRANSMISSION
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+%5D+ONLINE;%5B+RESEARCH+%5D+ACTIVE;%5B+SECURITY+%5D+ENABLED;%5B+ACCESS+%5D+AUTHORIZED;%5B+ARG+%5D+KEEP+BUILDING;%5B+EOF+%5D" alt="System Status"/> <br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+             ARGCYBERSKILLHUB
 
-## `root@arg:~# cat disclaimer.txt`
+       RESEARCH  •  BUILD  •  SECURE
 
-```diff
-- Sab content sirf EDUCATIONAL purpose ke liye hai.
-+ Sirf apne ya permission wale systems par hi practice karo.
-- Kisi ka bhi misuse karna illegal hai.
-```
+             cybergana-web
 
-<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ARGCYBERSKILLHUB.ARGCYBERSKILLHUB&left_color=black&right_color=00ff41&left_text=VISITORS" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&text=Stay%20Anonymous.%20Stay%20Secure.&fontSize=22&fontColor=00ff41&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:008f3d,65:003b18,100:000000&height=140&section=footer" width="100%" alt="Footer"/> </div>
