@@ -1,19 +1,21 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,25:4B0082,50:7B2CBF,75:00B4D8,100:00F5D4&height=250&section=header&text=ARGCYBERSKILLHUB&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=CYBERSECURITY%20%7C%20RESEARCH%20%7C%20CREATION&descSize=17&descColor=E0AAFF&descAlignY=62&animation=twinkling" width="100%" alt="ARGCYBERSKILLHUB"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1700&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=65&lines=%3E%3E+WELCOME+TO+THE+CYBER+LAB;%3E%3E+SECURITY+RESEARCH+INITIALIZED;%3E%3E+PYTHON+%7C+LINUX+%7C+TERMUX+%7C+OSINT;%3E%3E+BUILDING+TOOLS.+EXPLORING+SYSTEMS.;%3E%3E+AUTHORIZED+ACCESS+ONLY.;%3E%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%A8" alt="Cyberpunk Terminal"/>
 <br><br>
 
+
+
+<img src="./assets/brand.png"
+     alt="ARGCYBERSKILLHUB"
+     width="250"
+     height="250"
+     style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 25px #00ff41;">
+
+<br><br>
+
 🌐 08 // SOCIAL-MEDIA-CONTACTS
 <div align="center"> 
 <a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002F"/> </a> 
 <a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002F"/> </a> 
 <a href="https://t.me/argcyberskillhub01"> <img src="https://img.shields.io/badge/TELEGRAM-00B4D8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12002F"/> </a> <a href="https://www.facebook.com/ARGCYBERSKILLHUB"> <img src="https://img.shields.io/badge/FACEBOOK-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=12002F"/> </a> </div>
-
-<br><br>
-
-<img src="./assets/brand.png"
-     alt="ARGCYBERSKILLHUB"
-     width="230"
-     height="230"
-     style="border-radius:50%; object-fit:cover; border:3px solid #00ff41; box-shadow:0 0 25px #00ff41;">
 
 
 
