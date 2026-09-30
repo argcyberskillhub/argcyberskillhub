@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="./assets/brand.png"
+<img src="brand.png"
      alt="ARGCYBERSKILLHUB"
      width="230"
      height="230"
