@@ -11,7 +11,7 @@
 
 <br><br>
 
-🌐 08 // SOCIAL-MEDIA-CONTACTS
+🌐 1. // SOCIAL-MEDIA-CONTACTS
 <div align="center"> 
 <a href="https://www.youtube.com/@argcyberskillhub"> <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002F"/> </a> 
 <a href="https://www.instagram.com/arg_cyberskillhub/"> <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002F"/> </a> 
@@ -43,7 +43,7 @@ I focus on turning complex cybersecurity concepts into practical, understandable
 <br><br>
 
 <div align="center">
-🛰️ 02 // CYBER DOMAINS
+🛰️ 2. // CYBER DOMAINS
 
 🟣 OFFENSIVE RESEARCH	🔵 ENGINEERING	🩷 INTELLIGENCE	🟢 INFRASTRUCTURE
 </div>
@@ -69,7 +69,7 @@ DEVELOPMENT
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development"/> </div>
 
 <br><br>
-📊 04 // SKILL SPECTRUM
+📊 3. // SKILL SPECTRUM
 <div align="center"> <img src="https://img.shields.io/badge/CYBERSECURITY-100%25-7B2CBF?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/ETHICAL_HACKING-95%25-FF006E?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/PYTHON-90%25-00B4D8?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/LINUX%20%2F%20KALI-90%25-00F5D4?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/TERMUX-85%25-F72585?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/OSINT-80%25-7209B7?style=for-the-badge&labelColor=12002F"/> <br> <img src="https://img.shields.io/badge/NETWORKING-80%25-4361EE?style=for-the-badge&labelColor=12002F"/> <img src="https://img.shields.io/badge/WEB_SECURITY-75%25-FF8500?style=for-the-badge&labelColor=12002F"/> </div>
 
 <br><br>
@@ -90,7 +90,7 @@ CURRENT LAB ACTIVITY
 
 🟡 Security-tool development
 
-💻 06 // PROJECT TERMINAL
+💻 4. // PROJECT TERMINAL
 $ cd ~/ARGCYBERSKILLHUB
 
 $ ls
